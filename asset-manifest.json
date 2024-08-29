@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GIRLS-WHO-CODE/static/css/main.9e3b19bc.css",
+    "main.js": "/GIRLS-WHO-CODE/static/js/main.5871b8d7.js",
+    "static/js/453.3b6fec32.chunk.js": "/GIRLS-WHO-CODE/static/js/453.3b6fec32.chunk.js",
+    "index.html": "/GIRLS-WHO-CODE/index.html",
+    "main.9e3b19bc.css.map": "/GIRLS-WHO-CODE/static/css/main.9e3b19bc.css.map",
+    "main.5871b8d7.js.map": "/GIRLS-WHO-CODE/static/js/main.5871b8d7.js.map",
+    "453.3b6fec32.chunk.js.map": "/GIRLS-WHO-CODE/static/js/453.3b6fec32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e3b19bc.css",
+    "static/js/main.5871b8d7.js"
+  ]
+}
