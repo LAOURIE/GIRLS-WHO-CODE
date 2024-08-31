@@ -15,11 +15,8 @@ const HomePage = () => {
         <div className="flex flex-col md:flex-row md:space-x-12 items-center">
           {/* Left Section: Circular Image and Title */}
           <div className="flex-shrink-0 text-center md:text-left">
-            <img 
-              src="/reshma.png" 
-              alt="Reshma Saujani" 
-              className="w-48 h-48 object-cover rounded-full shadow-lg mx-auto md:mx-0" // Circular image
-            />
+          <img src="/reshma.png" alt="Reshma Saujani" />
+
             <div className="mt-4">
               <h2 className="text-2xl font-semibold text-blue-900">Reshma Saujani</h2>
               <p className="text-lg text-gray-700">CEO and Founder, Girls Who Code</p>

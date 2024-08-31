@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import LandingPage from './components/LandingPage';
 import HomePage from './components/HomePage';
 import OurPartners from './components/OurPartners';
@@ -23,6 +23,7 @@ function App() {
         <Route path="/financials" element={<Financials />} />
         <Route path="/vision2019" element={<Vision2019 />} />
         <Route path="/border-navbar" element={<BorderNavbar />} />
+        <Route path="*" element={<Navigate to="/" />} />
       </Routes>
     </Router>
   );
