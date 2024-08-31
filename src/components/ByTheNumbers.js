@@ -1,6 +1,8 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import { HomeIcon, ChartBarIcon, UserGroupIcon, BriefcaseIcon, BuildingOffice2Icon, CurrencyDollarIcon, GlobeAltIcon } from '@heroicons/react/24/outline';
+import { HomeIcon } from '@heroicons/react/outline'; // or solid depending on the version you prefer
+
+
 
 const ByTheNumbers = () => {
   return (
