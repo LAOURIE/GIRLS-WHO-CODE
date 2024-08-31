@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import { HomeIcon } from '@heroicons/react/outline'; // or solid depending on the version you prefer
+import { HomeIcon } from '@heroicons/react/24/outline'; 
 
 
 
